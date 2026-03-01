@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/AgentEvalHQ/.github/blob/main/profile/AEHQ.png?raw=true" alt="AgentEvalHQ" width="600" />
+<img src="https://github.com/AgentEvalHQ/.github/blob/main/profile/AEHQ.png?raw=true" alt="AgentEvalHQ" width="300" />
 
 # AgentEvalHQ
 
