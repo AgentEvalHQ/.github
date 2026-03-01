@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Replace with actual logo URL once uploaded -->
 <img src="https://raw.githubusercontent.com/AgentEvalHQ/.github/main/profile/AEHQ.png" alt="AgentEvalHQ" width="600" />
 
 # AgentEvalHQ
